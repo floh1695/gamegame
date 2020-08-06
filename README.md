@@ -7,3 +7,4 @@ A place to put a game
 - Top-down shooter (Ex: Gauntlet, Zelda)
   - This one should be fun to expand
 - Asteroids might be a good place to start
+- Arcade style games
