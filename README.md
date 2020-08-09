@@ -1,4 +1,4 @@
-# gamegame
+# Rusteroids
 A place to put a game
 
 ## Notes
